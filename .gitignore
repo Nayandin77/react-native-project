@@ -11,7 +11,7 @@ web-build/
 web-report/
 
 # exclude from gitignore
-node_modules\expo\AppEntry.js
+!node_modules\expo\AppEntry.js
 
 # macOS
 .DS_Store
